@@ -20,6 +20,7 @@ public class Main {
                     int scannerasde =1;
                 case 2:
                     System.out.println("WHY WOULD YWOU EXIT");
+                     System.out.println("YOUR HEALTH WOULD SURELY CRUMBLE EVEN WITHOUT MY PRAYERS");
                     break;
             }
 
